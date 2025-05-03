@@ -28,9 +28,11 @@ You can run the game using build versions. I cannot upload these to GitHub becau
 
 **The content of this repo is the source code.**
 
+You would need to download python, the renpy game engine, and an IDE (e.g., VSCode) in order to run the game based on this repo's files. 
+,
 ### Web Version
-I uploaded a web build of what has been completed so far to itch.io.
-YOU NEED TO OBTAIN A KEY FROM ME TO PLAY ON ITCH.IO
+This is why I uploaded a web build of what has been completed so far to itch.io.
+**YOU NEED TO OBTAIN A KEY FROM ME TO PLAY ON ITCH.IO**
 The game is available to play in your browser via itch.io:
 
 [https://yourgame.itch.io/berkeleypunk2077](https://longingredforest4737.itch.io/berkeleypunk-2077)
