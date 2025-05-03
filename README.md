@@ -2,7 +2,7 @@
 ## About the Game
 BerkeleyPunk 2077 is a narrative-driven visual novel built in Ren'Py. Ren'py is a game engine built on top of the Python package Pygame for the purpose of making visual novels easier to make. When I write the scripts for characters and have characters move, it's all formatted in Python code via .rpy files.
 
-BerkeleyPunk 2077 takes place in a retro-futuristic world where artificial intelligence systems have become deeply integrated into everyday life—shaping decisions, monitoring behavior, and eroding personal agency. The player takes on the role of a digital dissident navigating a city defined by authoritative control and algorithmic oversight. As the story unfolds, choices affect how the character resists, complies, or rewrites the systems around them.
+BerkeleyPunk 2077 takes place in a retro, futuristic world where artificial intelligence systems have become deeply integrated into everyday life—shaping decisions, monitoring behavior, and eroding personal agency. The player takes on the role of a digital dissident navigating a city defined by authoritative control and algorithmic oversight. As the story unfolds, choices affect how the character resists, complies, or rewrites the systems around them.
 
 This game was designed for entertainment, and it leans heavily on political and pop satire. 
 
