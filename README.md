@@ -29,7 +29,7 @@ You can run the game using build versions. I cannot upload these to GitHub becau
 **The content of this repo is the source code.**
 
 You would need to download python, the renpy game engine, and an IDE (e.g., VSCode) in order to run the game based on this repo's files. 
-,
+
 ### Web Version
 This is why I uploaded a web build of what has been completed so far to itch.io.
 **YOU NEED TO OBTAIN A KEY FROM ME TO PLAY ON ITCH.IO**
